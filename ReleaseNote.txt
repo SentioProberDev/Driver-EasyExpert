@@ -1,0 +1,17 @@
+Release Note
+
+2019-11-22: Release V1.4
+Modify the logic for 
+Iterator => will stepping by subsite and travel to all the wafer
+Subsite => will only can travel in only die for subsite stepping
+
+
+2019-08-06: Release V1.3.1
+1. Fix the subsite number when subsite stepping
+2. Source Code for V1.3.1
+
+2019-07-24: Release V1.3
+1. Source Code for V1.3
+2. EXE files for driver
+3. Subsite stepping will keep in the one die
+if user need use subsite stepping for all of map, please use the "Subsite_mpi_V1.0.exe" 
