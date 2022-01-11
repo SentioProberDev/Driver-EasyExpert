@@ -1,5 +1,9 @@
 Release Note
 
+2022-01-11: Release V1.5
+Add subsite name response
+Only update request for Subsite.exe
+
 2019-11-22: Release V1.4
 Modify the logic for 
 Iterator => will stepping by subsite and travel to all the wafer
