@@ -1,8 +1,16 @@
 Release Note
 
+2022-01-26: Release V1.5 
+Add subsite name response
+Update for Iterator_mpi.exe
+
+2 file is not change compare V1.4
+Final_mpi.exe
+Strat_mpi.exe
+
 2022-01-11: Release V1.5
 Add subsite name response
-Only update request for Subsite.exe
+Only update request for Subsite_mpi.exe
 
 2019-11-22: Release V1.4
 Modify the logic for 
